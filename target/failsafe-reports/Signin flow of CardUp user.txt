@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Signin flow of CardUp user
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 27.853 s - in Signin flow of CardUp user
